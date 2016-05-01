@@ -4,13 +4,16 @@
   "description": "User management js",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.5.5"
+    "angular": "^1.5.5",
+    "angular-route": "1.4.x"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
+    "browserify-ngannotate": "^2.0.0",
     "gulp": "^3.9.1",
     "gulp-connect": "^4.0.0",
     "gulp-ruby-sass": "^2.0.6",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^1.1.0",
+    "del": "^1.2.1"
   }
 }
